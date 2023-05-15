@@ -5,6 +5,10 @@
 | Lng | Name | Description | Raw data |
 |-----|------|-------------|----------|
 |🇺🇦 🇬🇧|[deepstatemap.live](https://deepstatemap.live/)|Current position of units. No download|🔴|
+|🇬🇧|[whereisrussia.today](https://whereisrussia.today/actors)|Current position and history of units. No download|🔴|
+|🇬🇧|[uawardata.com](https://www.uawardata.com)|Current position and history of units (not maintained anymore)|🟢|
+
+
 
 ## Russian personell (killed, wounded)
 
