@@ -1,10 +1,23 @@
-# Russo-Ukrainian War Open Data Sources
+# Russo-Ukrainian War (Open) Data Sources
 
 
 ## Troops position
 | Lng | Name | Description | Raw data |
 |-----|------|-------------|----------|
 |🇺🇦 🇬🇧|[deepstatemap.live](https://deepstatemap.live/)|Current position of units. No download|🔴|
+
+## Incidents
+| Lng | Name | Description | Raw data |
+|-----|------|-------------|----------|
+|🇬🇧|[Eyes on Russia](https://eyesonrussia.org/)|Attacks. Flag if verified or not. One of the best sources of attacks|🟠|
+|🇬🇧|[VIINA](https://github.com/zhukovyuri/VIINA/)|Violent incident information based on news articles.|🟢|
+|🇺🇦 🇬🇧|[Liveuamap](https://liveuamap.com/)|Contains incidents, status updates, public announcements, etc (position is imprecice). Furthermore conquered territories. About $85 per year.|🟢|
+
+## Conquered territories
+| Lng | Name | Description | Raw data |
+|-----|------|-------------|----------|
+|🇺🇦 🇬🇧|[Liveuamap](https://liveuamap.com/)|Ukrainian project. GeoJSON and KML. About $85 per year.|🟢|
+|🇬🇧|[ISW](https://www.understandingwar.org/)|US project. For free. You need to contact them|🟢|
 
 ## Russian personell (killed, wounded)
 
@@ -21,4 +34,7 @@
 |🇬🇧|[Heavy Weapon tracking sheet](https://docs.google.com/spreadsheets/d/1ZR4cV8_TbpGMHH6FELPNF3UQPqhn-8D2YEtSLf_n8l0/edit#gid=0)|Weapons, delivered to Ukraine. [Maintainer](https://twitter.com/Jeff21461).|🟢|
 |🇬🇧|[Collective Awareness to UXO](https://cat-uxo.com/)|Everything about mines, missiles, grenades, etc.|🔴|
 
-
+## Explanations
+🟢 Raw data available  
+🟠 Raw data available, if you know how  
+🔴 No raw data
