@@ -45,6 +45,8 @@ An incomplete list of data on the Russo-Ukrainian War. Are sources missing? [Cre
 | Lng | Name | Description | Raw data |
 |-----|------|-------------|----------|
 |🇬🇧|Fortifications<br />👉 [Map](https://www.google.com/maps/d/edit?mid=1rRKs40IEbGRsV0Fhky25l5OkPJ_vUvQ&usp=sharing)<br />👉 [Download](https://www.google.com/maps/d/kml?mid=1rRKs40IEbGRsV0Fhky25l5OkPJ_vUvQ)<br />👉 [Maintainer](https://twitter.com/bradyafr)|Fortifications built by Russia. KMZ.|🟢|
+|🇬🇧|Ukraine equipment losses<br />👉 [Data](https://docs.google.com/spreadsheets/d/1LCVrNGs3rhr8wx5dfZX7FzNbeFB7eAwwpaVngmPs9Ic/edit#gid=9212742)<br />👉 [Maintainer](https://twitter.com/DefMon3)|Ukraine losses claimed by Russian MoD|🟢|
+
 
 ## Explanations
 🟢 Raw data available  
