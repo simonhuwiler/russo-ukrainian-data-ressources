@@ -30,10 +30,12 @@ An incomplete list of data on the Russo-Ukrainian War. Are sources missing? [Cre
 | Lng | Name | Description | Raw data |
 |-----|------|-------------|----------|
 |🇷🇺 🇬🇧|[en.zona.media](https://en.zona.media/article/2022/05/20/casualties_eng)|Figures on fallen Russian soldiers. No raw data.|🔴|
-|🇬🇧|[topcargo200.com](https://topcargo200.com/)|Fallen officers. Includes biography, pictures, etc|🔴|
+|🇬🇧|[topcargo200.com](https://topcargo200.com/)|Fallen officers. Includes biography, pictures, etc.|🔴|
+|🇷🇺|[poteru.net](http://poteru.net/)|List of fallen Russian soldiers.|🔴|
 |🇷🇺|[vechnayapamyat.net](https://www.vechnayapamyat.net/)|Website for Condolences, Categorized by unit|🔴|
 |🇷🇺 🇬🇧|Killed in Ukraine<br />👉 [Blog](https://killedinukraine.blogspot.com/)<br />👉 [List (Google Sheets)](https://docs.google.com/spreadsheets/d/1_bpIqkzD88hlSpA-PDZenSQGNnVnxz3lwYHKViSyuUc/edit)<br />👉 [Sources (Google Sheets)](https://docs.google.com/spreadsheets/d/1InyFVmu1LoSjqcWTHe4iD9cR8CNiL-5Ke5Jiz_Mlvwc/edit#gid=0)|List of killed Russian Officers|🟢|
 
+http://poteru.net/
 ## Weapons
 
 | Lng | Name | Description | Raw data |
@@ -42,6 +44,7 @@ An incomplete list of data on the Russo-Ukrainian War. Are sources missing? [Cre
 |🇬🇧|[Collective Awareness to UXO](https://cat-uxo.com/)|Everything about mines, missiles, grenades, etc.|🔴|
 
 ## Others
+
 | Lng | Name | Description | Raw data |
 |-----|------|-------------|----------|
 |🇬🇧|Fortifications<br />👉 [Map](https://www.google.com/maps/d/edit?mid=1rRKs40IEbGRsV0Fhky25l5OkPJ_vUvQ&usp=sharing)<br />👉 [Download](https://www.google.com/maps/d/kml?mid=1rRKs40IEbGRsV0Fhky25l5OkPJ_vUvQ)<br />👉 [Maintainer](https://twitter.com/bradyafr)|Fortifications built by Russia. KMZ.|🟢|
