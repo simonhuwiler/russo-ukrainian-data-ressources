@@ -24,6 +24,9 @@ An incomplete list of data on the Russo-Ukrainian War. Are sources missing? [Cre
 |-----|------|-------------|----------|
 |🇺🇦 🇬🇧|[Liveuamap](https://liveuamap.com/)|Ukrainian project. GeoJSON and KML. About $85 per year.|🟢|
 |🇬🇧|[ISW](https://www.understandingwar.org/)|US project. For free. You need to contact them|🟢|
+|🇬🇧|[ukrdailyupdate](https://www.ukrdailyupdate.com/home)|Map with sources|🟢|
+
+
 
 ## Russian personell (killed, wounded)
 
@@ -35,7 +38,6 @@ An incomplete list of data on the Russo-Ukrainian War. Are sources missing? [Cre
 |🇷🇺|[vechnayapamyat.net](https://www.vechnayapamyat.net/)|Website for Condolences, Categorized by unit|🔴|
 |🇷🇺 🇬🇧|Killed in Ukraine<br />👉 [Blog](https://killedinukraine.blogspot.com/)<br />👉 [List (Google Sheets)](https://docs.google.com/spreadsheets/d/1_bpIqkzD88hlSpA-PDZenSQGNnVnxz3lwYHKViSyuUc/edit)<br />👉 [Sources (Google Sheets)](https://docs.google.com/spreadsheets/d/1InyFVmu1LoSjqcWTHe4iD9cR8CNiL-5Ke5Jiz_Mlvwc/edit#gid=0)|List of killed Russian Officers|🟢|
 
-http://poteru.net/
 ## Weapons
 
 | Lng | Name | Description | Raw data |
