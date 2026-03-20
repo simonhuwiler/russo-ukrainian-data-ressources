@@ -6,8 +6,6 @@ An incomplete list of data on the Russo-Ukrainian War. Are sources missing? [Cre
 | Lng | Name | Description | Raw data |
 |-----|------|-------------|----------|
 |🇺🇦 🇬🇧|[deepstatemap.live](https://deepstatemap.live/)|Current position of units. No download|🔴|
-|🇬🇧|[whereisrussia.today](https://whereisrussia.today/actors)|Current position and history of units. No download|🔴|
-|🇬🇧|[uawardata.com](https://www.uawardata.com)|Current position and history of units (not maintained anymore)|🟢|
 
 ## Incidents
 
@@ -24,27 +22,30 @@ An incomplete list of data on the Russo-Ukrainian War. Are sources missing? [Cre
 | Lng | Name | Description | Raw data |
 |-----|------|-------------|----------|
 |🇺🇦 🇬🇧|[Liveuamap](https://liveuamap.com/)|Ukrainian project. GeoJSON and KML. About $85 per year.|🟢|
-|🇬🇧|[ISW](https://www.understandingwar.org/)|US project. For free. You need to contact them|🟢|
+|🇬🇧|[ISW](https://understandingwar.org/analysis/russia-ukraine/)|US project. For free. You need to contact them|🟢|
 |🇬🇧|[ukrdailyupdate](https://www.ukrdailyupdate.com/home)|Map with sources|🟢|
+|🇬🇧|[blackbirdgroup.fi](https://www.blackbirdgroup.fi/map)|Map|🟠|
+
 
 
 ## Personell (killed, wounded)
 
 | Lng | Name | Description | Raw data |
 |-----|------|-------------|----------|
+|🇺🇦 🇬🇧|[russian-casualties.in.ua](https://russian-casualties.in.ua/)|Official data from the Ukrainian General Staff. Available in JSON and CSV formats.|🟢|
 |🇷🇺 🇬🇧|[en.zona.media](https://en.zona.media/article/2022/05/20/casualties_eng)|Figures on fallen Russian soldiers. No raw data.|🔴|
 |🇬🇧|[topcargo200.com](https://topcargo200.com/)|Fallen officers. Includes biography, pictures, etc.|🔴|
 |🇷🇺|[poteru.net](http://poteru.net/)|List of fallen Russian soldiers.|🔴|
 |🇷🇺|[vechnayapamyat.net](https://www.vechnayapamyat.net/)|Website for Condolences, Categorized by unit|🔴|
-|🇷🇺 🇬🇧|Killed in Ukraine<br />👉 [Blog](https://killedinukraine.blogspot.com/)<br />👉 [List (Google Sheets)](https://docs.google.com/spreadsheets/d/1_bpIqkzD88hlSpA-PDZenSQGNnVnxz3lwYHKViSyuUc/edit)<br />👉 [Sources (Google Sheets)](https://docs.google.com/spreadsheets/d/1InyFVmu1LoSjqcWTHe4iD9cR8CNiL-5Ke5Jiz_Mlvwc/edit#gid=0)|List of killed Russian Officers|🟢|
+|🇷🇺 🇬🇧|Killed in Ukraine<br />👉 [Blog](https://killedinukraine.blogspot.com/)<br />👉 [Sources (Google Sheets)](https://docs.google.com/spreadsheets/d/1InyFVmu1LoSjqcWTHe4iD9cR8CNiL-5Ke5Jiz_Mlvwc/edit#gid=0)|List of killed Russian Officers|🟢|
 |🇺🇦 🇬🇧|[ualosses.org](https://ualosses.org)|Ukrainian soldierst killed in action (about data quality [have look at this article](https://en.zona.media/article/2024/02/24/75k))|🟠|
 
 ## Equipment losses
 | Lng | Name | Description | Raw data |
 |-----|------|-------------|----------|
-|🇬🇧|Ukraine equipment losses<br />👉 [Data](https://docs.google.com/spreadsheets/d/1LCVrNGs3rhr8wx5dfZX7FzNbeFB7eAwwpaVngmPs9Ic/edit#gid=9212742)<br />👉 [Maintainer](https://twitter.com/DefMon3)|Ukraine losses claimed by Russian MoD|🟢|
+|🇺🇦 🇬🇧|[russian-casualties.in.ua](https://russian-casualties.in.ua/)|Official data from the Ukrainian General Staff. Available in JSON and CSV formats.|🟢|
 |🇬🇧|ukrdailyupdate<br />[👉 Data](https://docs.google.com/spreadsheets/d/1e_tI3ovN5jK-RrDPCpCy2lEtnX7XJaAHGF2zPMps11w/edit?gid=0#gid=0)<br />[👉 Maintainer](https://x.com/AndrewPerpetua)|Ukrainian and russian equipment losses|🟢|
-
+|🇬🇧|[Oryx](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html)|Losses since the start of the war.|🔴|
 
 ## Weapons
 
@@ -52,14 +53,19 @@ An incomplete list of data on the Russo-Ukrainian War. Are sources missing? [Cre
 |-----|------|-------------|----------|
 |🇬🇧|[Heavy Weapon tracking sheet](https://docs.google.com/spreadsheets/d/1ZR4cV8_TbpGMHH6FELPNF3UQPqhn-8D2YEtSLf_n8l0/edit#gid=0)|Weapons, delivered to Ukraine. [Maintainer](https://twitter.com/Jeff21461).|🟢|
 |🇬🇧|[Centre for eastern studies](https://www.osw.waw.pl/en/armsdeliveries)|Deliveries of Military equipment to Ukraine by country|🟢|
-|🇬🇧|[Collective Awareness to UXO](https://cat-uxo.com/)|Everything about mines, missiles, grenades, etc.|🔴|
 
 ## Others
-
 | Lng | Name | Description | Raw data |
 |-----|------|-------------|----------|
 |🇬🇧|Fortifications<br />👉 [Map](https://www.google.com/maps/d/edit?mid=1rRKs40IEbGRsV0Fhky25l5OkPJ_vUvQ&usp=sharing)<br />👉 [Download](https://www.google.com/maps/d/kml?mid=1rRKs40IEbGRsV0Fhky25l5OkPJ_vUvQ)<br />👉 [Maintainer](https://twitter.com/bradyafr)|Fortifications built by Russia. KMZ.|🟢|
 
+## Not maintained anymore
+| Lng | Name | Description | Raw data |
+|-----|------|-------------|----------|
+|🇬🇧|[whereisrussia.today](https://whereisrussia.today/actors)|Current position and history of units. No download|🔴|
+|🇬🇧|[uawardata.com](https://www.uawardata.com)|Current position and history of units (not maintained anymore)|🟢|
+|🇬🇧|Ukraine equipment losses<br />👉 [Data](https://docs.google.com/spreadsheets/d/1LCVrNGs3rhr8wx5dfZX7FzNbeFB7eAwwpaVngmPs9Ic/edit#gid=9212742)<br />👉 [Maintainer](https://twitter.com/DefMon3)|Ukraine losses claimed by Russian MoD|🟢|
+|🇬🇧|[Collective Awareness to UXO](https://cat-uxo.com/)|Everything about mines, missiles, grenades, etc.|🔴|
 
 
 ## Explanations
