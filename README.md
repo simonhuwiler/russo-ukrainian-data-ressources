@@ -11,6 +11,7 @@ An incomplete list of data on the Russo-Ukrainian War. Are sources missing? [Cre
 
 | Lng | Name | Description | Raw data |
 |-----|------|-------------|----------|
+|🇬🇧|[Geoconfirmed](https://geoconfirmed.org/map/ukraine#6/47.533/36.835)|Incidents, Attacks, etc, based on videos. Everything geoconfirmed|🟢|
 |🇬🇧|[Eyes on Russia](https://eyesonrussia.org/)|Attacks. Flag if verified or not. One of the best sources of attacks|🟠|
 |🇬🇧|[VIINA](https://github.com/zhukovyuri/VIINA/)|Violent incident information based on news articles.|🟢|
 |🇺🇦 🇬🇧|[Liveuamap](https://liveuamap.com/)|Contains incidents, status updates, public announcements, etc (position is imprecice). Furthermore conquered territories. About $85 per year.|🟢|
