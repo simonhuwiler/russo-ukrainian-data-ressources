@@ -17,6 +17,8 @@ An incomplete list of data on the Russo-Ukrainian War. Are sources missing? [Cre
 |🇺🇦 🇬🇧|[Liveuamap](https://liveuamap.com/)|Contains incidents, status updates, public announcements, etc (position is imprecice). Furthermore conquered territories. About $85 per year.|🟢|
 |🇬🇧|[Acled](https://acleddata.com/ukraine-conflict-monitor/)|Incident information. Raw data available on request.|🟢|
 |🇬🇧|[Massive Missile Attacks on Ukraine](https://www.kaggle.com/datasets/piterfm/massive-missile-attacks-on-ukraine?resource=download)|Daily data on Russian missile and drone attacks|🟢|
+|UA| [UA Cyber Attacks Data](https://github.com/curated-intel/Ukraine-Cyber-Operations) | Structured data tracking cyber incidents and infrastructure attacks. | 🟢 |
+
 
 ## Conquered territories
 
