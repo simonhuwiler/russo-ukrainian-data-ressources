@@ -49,6 +49,7 @@ An incomplete list of data on the Russo-Ukrainian War. Are sources missing? [Cre
 |🇺🇦 🇬🇧|[russian-casualties.in.ua](https://russian-casualties.in.ua/)|Official data from the Ukrainian General Staff. Available in JSON and CSV formats.|🟢|
 |🇬🇧|ukrdailyupdate<br />[👉 Data](https://docs.google.com/spreadsheets/d/1e_tI3ovN5jK-RrDPCpCy2lEtnX7XJaAHGF2zPMps11w/edit?gid=0#gid=0)<br />[👉 Maintainer](https://x.com/AndrewPerpetua)|Ukrainian and russian equipment losses|🟢|
 |🇬🇧|[Oryx](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html)|Losses since the start of the war.|🔴|
+|Global| [Ukraine-Russia War Dataset](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset) | Comprehensive, daily-updated CSV/JSON datasets tracking Russian equipment and personnel losses. | 🟢 |
 
 ## Weapons
 
